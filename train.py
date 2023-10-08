@@ -57,7 +57,7 @@ transform = transforms.Compose([
 ])
 
 # Directorio que contiene tus imágenes categorizadas
-data_dir = "C:/Users/elian/OneDrive/Escritorio/asl_alphabet_train/asl_alphabet_train"
+data_dir = "Carpeta-Con-Imagenes(Dentro deben haber varias carpetas de la A-Z)"
 
 # Crear el dataset personalizado
 dataset = ASLDataset(data_dir, transform=transform)
