@@ -43,20 +43,16 @@ HandTranslatorASLalphabet is a project that utilizes Mediapipe technology and de
    - Press the **'F' key** to flip the camera horizontally.
    - Press the **'ESC' key** to exit the program.
 
-## Developer 👨‍💻
-
-Lautaro Elian Roa Mazzola
-
 ## Example 👓
 ![HandTranslator test](test.jpg)
 ![Screenshot 1](Screenshot1.png)
 ![Screenshot 2](Screenshot2.png)
 
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](your_linkedin_url)
-- Portfolio: [Your Portfolio](your_portfolio_url)
+## Developer 👨‍💻
+
+Lautaro Elian Roa Mazzola
 
 ## Contact Me 📧
 
-- LinkedIn: [Your LinkedIn Profile](your_linkedin_url)
-- Portfolio: [Your Portfolio](your_portfolio_url)
+- [Linkedin](https://www.linkedin.com/in/lautaro-elian-roa-mazzola-b30247209/)
+- [Portfolio](https://portfolio-lautaro-roa.vercel.app/)
