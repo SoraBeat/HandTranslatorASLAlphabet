@@ -1,30 +1,30 @@
 # HandTranslatorASLalphabet 🤚🌐
 
-![HandTranslator Logo](imagen.png)
+![HandTranslator Logo](image.png)
 
-## Descripción 📋
+## Description 📋
 
-HandTranslatorASLalphabet es un proyecto que utiliza la tecnología de Mediapipe y modelos de lenguaje profundo para traducir el alfabeto del lenguaje de señas en tiempo real. Permite a las personas sordas comunicarse más fácilmente con aquellos que no conocen el lenguaje de señas.
+HandTranslatorASLalphabet is a project that utilizes Mediapipe technology and deep learning models to translate American Sign Language (ASL) alphabet in real-time. It enables deaf individuals to communicate more easily with those who do not know sign language.
 
-## ¿Cómo funciona? 🚀
+## How It Works? 🚀
 
-1. **Requisitos de instalación:** Ejecuta `pip install -r requirements.txt` para instalar las dependencias necesarias.
+1. **Installation Requirements:** Run `pip install -r requirements.txt` to install the necessary dependencies.
 
-2. **Entrenamiento del modelo:** Asegúrate de tener una carpeta con las imágenes para entrenar el modelo.
+2. **Model Training:** Make sure you have a folder with images for model training.
 
-3. **Ejecución de la aplicación:** Abre el archivo `main.py` y selecciona la cámara deseada. Luego, ejecuta el programa.
+3. **Running the Application:** Open the `main.py` file and select the desired camera. Then, run the program.
 
-4. **Traducción en tiempo real:** Muestra el alfabeto del lenguaje de señas en tiempo real a medida que detecta gestos de las manos.
+4. **Real-time Translation:** Displays the ASL alphabet in real-time as it detects hand gestures.
 
-## Desarrollador 👨‍💻
+## Developer 👨‍💻
 
-![Tu Nombre](tu_imagen.png)
+![Your Name](your_image.png)
 
-**Tu Nombre**
-- LinkedIn: [Tu Perfil de LinkedIn](tu_linkedin_url)
-- Portfolio: [Tu Portafolio](tu_portfolio_url)
+**Your Name**
+- LinkedIn: [Your LinkedIn Profile](your_linkedin_url)
+- Portfolio: [Your Portfolio](your_portfolio_url)
 
-## Contáctame 📧
+## Contact Me 📧
 
-- LinkedIn: [Tu Perfil de LinkedIn](tu_linkedin_url)
-- Portfolio: [Tu Portafolio](tu_portfolio_url)
+- LinkedIn: [Your LinkedIn Profile](your_linkedin_url)
+- Portfolio: [Your Portfolio](your_portfolio_url)
